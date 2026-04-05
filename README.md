@@ -1,6 +1,6 @@
 # Salmon
 ![遊戲圖](./Assets/Sprites/wait.png)
-鮭魚逆游而上的 Unity 3D 小遊戲(6000.0.46f1)。
+鮭魚逆游而上的 Unity 3D 6.4 遊戲(6000.4.1f1)。
 
 
 # 輸入
@@ -18,6 +18,7 @@ https://github.com/IvanMurzak/Unity-MCP/releases
 ### 下載兩個檔案:
 - 解壓縮 `unity-mcp-server-win-x64.zip`
 https://github.com/IvanMurzak/Unity-MCP/releases/download/0.63.3/unity-mcp-server-win-x64.zip
+![unity-mcp-server-win-x64](./images/unity-mcp-server-win-x64.png)
 
 - 在 Unity Editor 中：`Window` → `Package Manager`:
 https://github.com/IvanMurzak/Unity-MCP/releases/download/0.63.3/AI-Game-Dev-Installer.unitypackage
