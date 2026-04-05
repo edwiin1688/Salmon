@@ -1,16 +1,10 @@
 {
+  "$schema": "https://opencode.ai/config.json",
   "mcp": {
     "ai-game-developer": {
-      "command": [
-        "D:/github/chiisen/Salmon/Library/mcp-server/win-x64/unity-mcp-server.exe",
-        "port=27361",
-        "plugin-timeout=10000",
-        "client-transport=stdio",
-        "authorization=none",
-        "token=kcsKY7BlxOb1O5RgRlNGcseHLlZPdqbJGAbf8ARY-Cc"
-      ],
       "enabled": true,
-      "type": "local"
+      "type": "remote",
+      "url": "http://localhost:27361"
     }
   }
 }
