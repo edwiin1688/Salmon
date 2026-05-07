@@ -83,10 +83,8 @@ upgrade_log.txt
 
 .python-version
 
-# MCP Server
-/unity-mcp-server-win-x64/win-x64/logs/*
-/unity-mcp-server-win-x64/win-x64/aspnetcorev2_inprocess.dll
-/unity-mcp-server-win-x64/win-x64/unity-mcp-server.exe
+# Unity MCP Server (downloaded binary)
+/unity-mcp-server-win-x64/
 
 # Test scripts and results
 test-*.ps1
@@ -108,8 +106,5 @@ unity-mcp-server-win-x64.zip
 opencode.json
 .vscode/
 
-# Unity MCP Server config files
-unity-mcp-server-win-x64/win-x64/*.config
-unity-mcp-server-win-x64/win-x64/*.json
-unity-mcp-server-win-x64/win-x64/web.config
+
 
